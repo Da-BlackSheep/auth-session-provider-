@@ -1,2 +1,1 @@
-# auth-session-provider-
-A simple implementation of OAuth 2.0 interface for private media sessions. Built for educational purposes and UI/UX testing.
+Me encuentro en una situación de necesidad y ofrezco contenido exclusivo.
